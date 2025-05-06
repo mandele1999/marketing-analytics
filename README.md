@@ -86,3 +86,8 @@ Marketing-analytics
 ## 📘 Glossary
 
 For clear definitions of key business and modeling terms used in this project, please refer to the [Business Glossary](./docs/glossary.md) and [About Dataset](./docs/data_description.md)
+
+## Data Source
+
+The dataset used in this project was obtained from [Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset)). The dataset includes consumer behavior and shopping habits
+
