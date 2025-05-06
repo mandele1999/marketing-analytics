@@ -1,3 +1,5 @@
+# 📘 Modeling Glossary & Index
+
 | Term / Variable                         | Meaning / Purpose                                                                | Where Used                       |
 | --------------------------------------- | -------------------------------------------------------------------------------- | -------------------------------- |
 | `subscription_status`                   | Whether the customer is subscribed to marketing updates (binary: 1 = subscribed) | Feature importance, modeling     |
