@@ -1,5 +1,5 @@
-
 ```graphql
+
 ‑Marketing-analytics
 │
 ├─ models/
