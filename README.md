@@ -85,4 +85,4 @@ MIT License
 
 ## 📘 Glossary
 
-For clear definitions of key business and modeling terms used in this project, please refer to the [Business Glossary](./docs/GLOSSARY.md).
+For clear definitions of key business and modeling terms used in this project, please refer to the [Business Glossary](./docs/glossary.md).
