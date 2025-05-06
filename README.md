@@ -1,4 +1,4 @@
-# Marketing Campaign Response Optimizer
+# 🛍 Marketing Campaign Response Optimizer
 
 ![sale](https://github.com/user-attachments/assets/4cd24a8d-c96f-4245-a2f2-c8da9fe46038)
 
