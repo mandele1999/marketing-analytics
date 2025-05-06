@@ -81,7 +81,7 @@ Marketing-analytics
 
 ## License
 
-MIT License [MIT License](LICENSE)
+[MIT License](LICENSE)
 
 ## 📘 Glossary
 
