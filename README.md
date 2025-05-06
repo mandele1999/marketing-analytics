@@ -1,35 +1,56 @@
-# 🛍️ Marketing Campaign Response Predictor
+# 🛍️ Marketing Campaign Response Optimizer
 
-This project aims to identify customer groups most likely to respond positively to a marketing promotion using predictive modeling. It includes logistic regression, random forest modeling, threshold optimization, cost-benefit simulation, A/B testing setup, and API and Streamlit interface deployment.
+This project helps businesses identify customers most likely to respond positively to marketing offers. By using predictive analytics and targeted strategies, it boosts campaign effectiveness and return on investment (ROI). The solution includes response prediction, profit simulation, A/B testing planning, and deployment options.
 
 ## Project Objectives
-- Predict the likelihood of customer response to a promotional offer.
-- Identify and target high-response segments to maximize ROI.
-- Simulate and validate business impact through cost-benefit analysis.
-- Prepare for real-world deployment and integration.
+
+- Predict which customers are likely to respond to a campaign.
+- Focus efforts on high-value segments.
+- Maximize revenue uplift while minimizing costs.
+- Simulate business impact and measure performance.
+- Deploy the solution for easy integration into marketing workflows.
 
 ## Key Features
-Data Processing: Cleaned, encoded, and feature-engineered customer behavior data.
 
-Modeling: Logistic Regression & Random Forest (AUC > 0.92).
+- **Data Processing**: Cleaned, encoded, and feature-engineered customer behavior data.
+- **Modeling**: Logistic Regression & Random Forest (AUC > 0.92).
+- **Threshold Tuning**: F1 and Youden’s J used for optimal cutoff selection (0.46). _(Campaign Targeting Strategy using data-backed thresholds)_
+- **Business Uplift Simulation**: Estimated uplift of $6.8K from targeted outreach.
+- **Cost-Benefit Analysis**: ROI of 225% from campaign scenario; estimate net profit and ROI
+- **A/B Testing Design**: Power analysis for pilot test planning.
+- **Deployment Tools**:
+    - REST API scoring (`/scoring_api/api.py`)
+    - Streamlit web app (`/dashboard/streamlit_app.py`)
 
-Threshold Tuning: F1 and Youden’s J used for optimal cutoff selection (0.46).
+## How to Use
 
-Business Uplift Simulation: Estimated uplift of $6.8K from targeted outreach.
+1. **Setup**
 
-Cost-Benefit Analysis: ROI of 225% from campaign scenario.
+```bash
+git clone https://github.com/yourusername/marketing-analytics.git
+cd marketing-analytics
+pip install -r requirements.txt
+```
 
-A/B Testing Design: Power analysis for pilot test planning.
+2. **Run Scoring API**
 
-Deployment Options:
+```bash
+cd scoring_api
+uvicorn api:app --reload
+```
 
-REST API scoring (/scoring_api/api.py)
+3. **Launch Streamlit App**
 
-Streamlit web app (/dashboard/streamlit_app.py)
+```bash
+cd dashboard
+streamlit run streamlit_app.py
+```
+
+## 📁 Project Structure
 
 ```graphql
 
-‑Marketing-analytics
+Marketing-analytics
 │
 ├─ models/
 │   └─ promo_model.pkl          ← your serialized RandomForest
@@ -38,7 +59,30 @@ Streamlit web app (/dashboard/streamlit_app.py)
 │   ├─ api.py                   ← FastAPI scoring service
 │   └─ requirements.txt         ← fastapi, uvicorn, scikit‑learn, pandas…
 │
-└─ dashboard/
-    ├─ streamlit_app.py         ← Streamlit UI that calls api.py or loads model
-    └─ requirements.txt         ← streamlit, requests, pandas…
+├─ dashboard/
+│   ├─ streamlit_app.py         ← Streamlit UI that calls api.py or loads model
+│   └─ requirements.txt         ← streamlit, requests, pandas…
+│
+├── data/                     # raw data
+├── docs/                     # Documentation & glossary
+│   └── glossary.md
+│
+├── index.ipynb
+├── requirements.txt
+└── README.md    
 ```
+
+## Key Results / Business Impact
+
+- Best Model: `Random Forest` (CV AUC: 0.926)
+- Targeted Group Response Rate: `78.4%` vs Baseline `42.9%`
+- Estimated Revenue Uplift: `$6.8K`
+- Campaign ROI: `225%`
+
+## License
+
+MIT License
+
+## 📘 Glossary
+
+For clear definitions of key business and modeling terms used in this project, please refer to the [Business Glossary](./docs/GLOSSARY.md).
