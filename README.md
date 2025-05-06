@@ -89,5 +89,5 @@ For clear definitions of key business and modeling terms used in this project, p
 
 ## Data Source
 
-The dataset used in this project was obtained from [Kaggle]([https://www.kaggle.com/](https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset)). The dataset includes consumer behavior and shopping habits
+The dataset used in this project was obtained from [Kaggle](https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset). The dataset includes consumer behavior and shopping habits
 
