@@ -26,7 +26,7 @@ This project helps businesses identify customers most likely to respond positive
 
 1. **Setup**
 
-```bash
+```text
 git clone https://github.com/yourusername/marketing-analytics.git
 cd marketing-analytics
 pip install -r requirements.txt
@@ -34,21 +34,21 @@ pip install -r requirements.txt
 
 2. **Run Scoring API**
 
-```bash
+```text
 cd scoring_api
 uvicorn api:app --reload
 ```
 
 3. **Launch Streamlit App**
 
-```bash
+```text
 cd dashboard
 streamlit run streamlit_app.py
 ```
 
 ## 📁 Project Structure
 
-```graphql
+```text
 
 Marketing-analytics
 │
@@ -81,7 +81,7 @@ Marketing-analytics
 
 ## License
 
-MIT License
+MIT License [MIT License](LICENSE)
 
 ## 📘 Glossary
 
