@@ -90,9 +90,7 @@ Marketing-analytics
 
 For clear definitions of key business and modeling terms used in this project, please refer to the [Business Glossary](./docs/glossary.md) and [About Dataset](./docs/data_description.md)
 
-## Data Source
-
-The dataset used in this project was obtained from [Kaggle](https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset). The dataset includes consumer behavior and shopping habits
-
-### Credits: (<a href="https://www.flaticon.com/free-stickers/clothing" title="clothing stickers">Clothing stickers created by Stickers - Flaticon</a>)
+### Credits: 
+[Kaggle](https://www.kaggle.com/datasets/zeesolver/consumer-behavior-and-shopping-habits-dataset)
+<a href="https://www.flaticon.com/free-stickers/shopping" title="shopping stickers">Shopping stickers created by Stickers - Flaticon</a>
 
