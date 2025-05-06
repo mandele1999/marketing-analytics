@@ -85,4 +85,4 @@ Marketing-analytics
 
 ## 📘 Glossary
 
-For clear definitions of key business and modeling terms used in this project, please refer to the [Business Glossary](./docs/glossary.md).
+For clear definitions of key business and modeling terms used in this project, please refer to the [Business Glossary](./docs/glossary.md) and [About Dataset](./docs/data_description.md)
