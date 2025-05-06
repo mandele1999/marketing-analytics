@@ -1,14 +1,7 @@
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
-![Status](https://img.shields.io/badge/Project-Complete-brightgreen)
-![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-orange?logo=streamlit)
-![Made with](https://img.shields.io/badge/Made%20with-💡%20Data%20Science-blueviolet)
-
+# 🛍️ Marketing Campaign Response Optimizer
 ![street-market](https://github.com/user-attachments/assets/9309abbb-5d85-45f7-9d80-5027d0d9520e)
 
-
-# 🛍️ Marketing Campaign Response Optimizer
-
+## Overview
 This project helps businesses identify customers most likely to respond positively to marketing offers. By using predictive analytics and targeted strategies, it boosts campaign effectiveness and return on investment (ROI). The solution includes response prediction, profit simulation, A/B testing planning, and deployment options.
 
 ## Project Objectives
