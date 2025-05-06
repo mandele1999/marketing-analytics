@@ -1,6 +1,6 @@
 
-```text
-‑promo/
+```graphql
+‑Marketing-analytics
 │
 ├─ models/
 │   └─ promo_model.pkl          ← your serialized RandomForest
