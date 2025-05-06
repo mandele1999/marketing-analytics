@@ -1,6 +1,6 @@
 # 🛍️ Marketing Campaign Response Optimizer
 
-![street-market (1)](https://github.com/user-attachments/assets/3d8c6804-0d10-48af-9ef2-cbb77886ba36)
+![street-market (2)](https://github.com/user-attachments/assets/c93c2daf-2db1-495a-b3aa-9d7550a53bcb)
 
 ## Overview
 This project helps businesses identify customers most likely to respond positively to marketing offers. By using predictive analytics and targeted strategies, it boosts campaign effectiveness and return on investment (ROI). The solution includes response prediction, profit simulation, A/B testing planning, and deployment options.
