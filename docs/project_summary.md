@@ -150,3 +150,24 @@ This document provides a comprehensive overview of the work completed—from dat
 3. **Deployment pipeline** ensures marketing teams can operationalize the model without technical friction.
 
 Together, these deliver a scalable, repeatable process for optimizing marketing promotions and maximizing return on investment.
+
+### Model Output Interpration
+Case: 
+A 7 % “responder score” is the model’s estimate that this particular customer has a 7 % chance of redeeming your promotion if you send it.
+
+| Perspective            | Interpretation                                                                                                   |
+| ---------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| **Probability**        | “If 100 customers with this exact profile all received the offer, about 7 of them would respond.”                |
+| **Targeting decision** | Since 7 % is well below our 46 % cutoff, we would **not** include this customer in the mail‑out.                 |
+| **Cost–benefit**       | Sending to a 7 %‐likelihood customer yields low expected return: 0.07 × \$55.85 ≈ \$3.91 revenue vs. \~\$6 cost. |
+| **Opportunity cost**   | Focusing on higher‑score customers (e.g. 60–80 % likelihood) uses your promo budget more efficiently.            |
+
+- Efficient Spend: Every promotional dollar spent on a low‑likelihood customer is less likely to generate revenue.
+- Maximizing ROI: By setting a threshold (0.46), you concentrate on the top 44 % of customers whose expected response rates (≥ 46 %) justify the cost of the offer.
+- Segment insight: A 7 % score tells you this customer belongs to a low‑response segment—perhaps non‑subscriber, low loyalty, or certain product interests—which helps refine future messaging or alternative offers.
+
+#### Next steps for low‑score customers
+
+- Alternative offers: Try a different incentive (e.g. free shipping instead of discount).
+- Nurture campaigns: Move them into drip‑email sequences to build loyalty before sending heavy‑spend promotions.
+- Re‑score later: As they accumulate more purchases or change status, their score may rise—re‑evaluate before the next campaign.
