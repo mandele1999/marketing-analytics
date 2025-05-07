@@ -68,7 +68,8 @@ Marketing-analytics
 │
 ├── data/                     # raw data
 ├── docs/                     # Documentation & glossary
-│   └── glossary.md
+│   ├─ project_summary.md
+│   └─ glossary.md
 │
 ├── index.ipynb
 ├── requirements.txt
