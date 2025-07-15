@@ -1,6 +1,6 @@
 # 🛍 Marketing Campaign Response Optimizer
 
-![black-friday](https://github.com/user-attachments/assets/c6cb6f1f-1d26-4dbf-8fab-6d99c37ea2da)
+![campaign-creators-yktK2qaiVHI-unsplash (1)](https://github.com/user-attachments/assets/8b9da0d6-275e-4a44-a111-4d8103422f1c)
 
 ## Overview
 This project helps businesses identify customers most likely to respond positively to marketing offers. By using predictive analytics and targeted strategies, it boosts campaign effectiveness and return on investment (ROI). The solution includes response prediction, profit simulation, A/B testing planning, and deployment options.
