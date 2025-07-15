@@ -1,6 +1,6 @@
-# 🛍 Marketing Campaign Response Optimizer
-
 ![campaign-creators-yktK2qaiVHI-unsplash (1)](https://github.com/user-attachments/assets/8b9da0d6-275e-4a44-a111-4d8103422f1c)
+[Photo by](<a href="https://unsplash.com/@campaign_creators?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Campaign Creators</a> on <a href="https://unsplash.com/photos/white-printing-paper-with-marketing-strategy-text-yktK2qaiVHI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>)
+# 🛍 Marketing Campaign Response Optimizer
 
 ## Overview
 This project helps businesses identify customers most likely to respond positively to marketing offers. By using predictive analytics and targeted strategies, it boosts campaign effectiveness and return on investment (ROI). The solution includes response prediction, profit simulation, A/B testing planning, and deployment options.
