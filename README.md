@@ -1,6 +1,6 @@
 ![campaign-creators-yktK2qaiVHI-unsplash (1)](https://github.com/user-attachments/assets/6e0c6b0e-a191-4f97-b66f-f779f216fdd2)
 
-<a href="https://unsplash.com/@campaign_creators?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Campaign Creators</a> on <a href="https://unsplash.com/photos/white-printing-paper-with-marketing-strategy-text-yktK2qaiVHI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+**Photo source:** <a href="https://unsplash.com/@campaign_creators?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Campaign Creators</a> on <a href="https://unsplash.com/photos/white-printing-paper-with-marketing-strategy-text-yktK2qaiVHI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 # 🛍 Marketing Campaign Response Optimizer
 
