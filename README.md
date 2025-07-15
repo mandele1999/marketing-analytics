@@ -1,5 +1,6 @@
-![campaign-creators-yktK2qaiVHI-unsplash (1)](https://github.com/user-attachments/assets/8b9da0d6-275e-4a44-a111-4d8103422f1c)
-[Photo by](<a href="https://unsplash.com/@campaign_creators?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Campaign Creators</a> on <a href="https://unsplash.com/photos/white-printing-paper-with-marketing-strategy-text-yktK2qaiVHI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>)
+![campaign-creators-yktK2qaiVHI-unsplash (2)](https://github.com/user-attachments/assets/c2419144-2889-4616-94bd-94a2c16cc3a7)
+Photo Source: (<a href="https://unsplash.com/@campaign_creators?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Campaign Creators</a> on <a href="https://unsplash.com/photos/white-printing-paper-with-marketing-strategy-text-yktK2qaiVHI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>)
+
 # 🛍 Marketing Campaign Response Optimizer
 
 ## Overview
